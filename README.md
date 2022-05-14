@@ -1,6 +1,4 @@
-Hola 👋 sou Urian Viera
-
-Soy ingeniero de Sistemas, actualmente trabajo como desarrollador full-stack.
+Hola 👋 sou Urian Viera, Ingeniero de Sistemas, actualmente trabajo como desarrollador full-stack.
 
 Habilidades como;
 
