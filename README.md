@@ -1,4 +1,6 @@
-Hola 👋
+Hola 👋 sou Urian Viera
+
+Soy ingeniero de Sistemas, actualmente trabajo como desarrollador full-stack.
 
 <!--
 **urian121/urian121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
