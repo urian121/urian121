@@ -49,10 +49,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="100" height="100"/>
 </p>
 
-## Enlaces
-
-👉 [Mi portafolio](https://www.urianviera.com)
-👉 [Canal de Youtube](https://www.youtube.com/WebDeveloperUrianViera)
 
 ## Enlaces
 
@@ -64,7 +60,7 @@
 
 - Comparte este repositorio con otros desarrolladores 📢
 - Invítame un café ☕ o una cerveza 🍺
-- **[¡Donar a través de PayPal!](https://www.paypal.com/donate/?hosted_button_id=4SV78MQJJH3VE){:target="_blank"}**
+- **[¡Donar a través de PayPal!](https://www.paypal.com/donate/?hosted_button_id=4SV78MQJJH3VE)**
 
 - Da las gracias públicamente 🤓
 
