@@ -59,11 +59,11 @@
 
 ### Expresiones de Gratitud 🎁
 
-    - Comparte este repositorio con otros desarrolladores 📢
-    - Invítame un café ☕ o una cerveza 🍺
-    - **[¡Donar a través de PayPal!](https://www.paypal.com/donate/?hosted_button_id=4SV78MQJJH3VE)**
-    
-    - Da las gracias públicamente 🤓
+  - Comparte este repositorio con otros desarrolladores 📢
+  - Invítame un café ☕ o una cerveza 🍺
+  - **[¡Donar a través de PayPal!](https://www.paypal.com/donate/?hosted_button_id=4SV78MQJJH3VE)**
+  
+  - Da las gracias públicamente 🤓
 
 ## ¡No olvides SUSCRIBIRTE! 👍
 
