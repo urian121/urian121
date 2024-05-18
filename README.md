@@ -49,6 +49,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="100" height="100"/>
 </p>
 
+## Enlaces
+
+👉 [Mi portafolio](https://www.urianviera.com){:target="_blank"}  
+👉 [Canal de Youtube](https://www.youtube.com/WebDeveloperUrianViera){:target="_blank"}
 
 ## Enlaces
 
