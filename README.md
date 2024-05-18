@@ -43,7 +43,6 @@
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="100" height="100"/>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="100" height="100"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height="100"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="100" height="100"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="100" height="100"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="100" height="100"/>
@@ -61,7 +60,7 @@
 
 - Comparte este repositorio con otros desarrolladores 📢
 - Invítame un café ☕ o una cerveza 🍺
-- **[¡Donar a través de PayPal!]([https://www.paypal.com/paypalme/iamdeveloper86](https://www.paypal.com/donate/?hosted_button_id=4SV78MQJJH3VE))** 💸
+- **[¡Donar a través de PayPal!](https://www.paypal.com/paypalme/iamdeveloper86](https://www.paypal.com/donate/?hosted_button_id=4SV78MQJJH3VE)** 💸
 - Da las gracias públicamente 🤓
 
 ## ¡No olvides SUSCRIBIRTE! 👍
