@@ -51,13 +51,13 @@
 
 ## Enlaces
 
-👉 [Mi portafolio](https://www.urianviera.com){:target="_blank"}  
-👉 [Canal de Youtube](https://www.youtube.com/WebDeveloperUrianViera){:target="_blank"}
+👉 [Mi portafolio](https://www.urianviera.com)
+👉 [Canal de Youtube](https://www.youtube.com/WebDeveloperUrianViera)
 
 ## Enlaces
 
-👉 [Mi portafolio](https://www.urianviera.com){:target="_blank"} 
-👉 [Canal de Youtube](https://www.youtube.com/WebDeveloperUrianViera){:target="_blank"}
+👉 [Mi portafolio](https://www.urianviera.com) 💻
+👉 [Canal de Youtube](https://www.youtube.com/WebDeveloperUrianViera) 🎥
 
 
 ### Expresiones de Gratitud 🎁
