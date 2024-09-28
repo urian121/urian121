@@ -3,7 +3,7 @@
 ## Sobre Mí 🤔
 **Ingeniero de Sistemas** y Desarrollador **Full Stack autodidacta**. Apasionado por la tecnología y la innovación, tengo experiencia en el desarrollo de aplicaciones web (tanto en **Backend** como en **Frontend**) y en aplicaciones **móviles**. Mi motivación es transformar ideas en soluciones digitales eficientes e impactantes.
 
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/banner-github-urian-viera-fulltstack.png">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCodSpPp_r_QnYIQYCjlyVGA?style=social)](https://www.youtube.com/WebDeveloperUrianViera?sub_confirmation=1)
 [![GitHub followers](https://img.shields.io/github/followers/urian121?style=social)](https://github.com/urian121)
@@ -189,12 +189,12 @@ He creado varios paquetes npm como aporte a la comunidad de Devs.
 
 ### ⚙️ &nbsp; Las estadisticas del repositorio:
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=urian121&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 32%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urian121&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 32%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=urian121&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" style="width: 32%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=urian121&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 50%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=urian121&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" style="width: 50%;">
 </div>
-
-
+<div style="display: flex; justify-content: space-between;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urian121&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+</div>
 
 ### 🌟 Expresiones de Gratitud 🎁
 
