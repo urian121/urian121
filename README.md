@@ -1,6 +1,6 @@
 # **¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Soy Urian Viera**
 
-## Sobre Mí 🤔
+### Sobre Mí 🤔
 **Ingeniero de Sistemas** y Desarrollador **Full Stack autodidacta**. Apasionado por la tecnología y la innovación, tengo experiencia en el desarrollo de aplicaciones web (tanto en **Backend** como en **Frontend**) y en aplicaciones **móviles**. Mi motivación es transformar ideas en soluciones digitales eficientes e impactantes.
 
 <img src="https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/banner-github-urian-viera-fulltstack.png">
@@ -189,11 +189,11 @@ He creado varios paquetes npm como aporte a la comunidad de Devs.
 
 ### ⚙️ &nbsp; Las estadisticas del repositorio:
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=urian121&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 50%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=urian121&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" style="width: 50%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=urian121&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urian121&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
 <div style="display: flex; justify-content: space-between;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urian121&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=urian121&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats">
 </div>
 
 ### 🌟 Expresiones de Gratitud 🎁
