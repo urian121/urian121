@@ -1,8 +1,6 @@
 # **¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Soy Urian Viera**
 
-## Sobre Mí
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
+## Sobre Mí 🤔
 **Ingeniero de Sistemas** y Desarrollador **Full Stack autodidacta**. Apasionado por la tecnología y la innovación, tengo experiencia en el desarrollo de aplicaciones web (tanto en **Backend** como en **Frontend**) y en aplicaciones **móviles**. Mi motivación es transformar ideas en soluciones digitales eficientes e impactantes.
 
 <img src="https://i.imgur.com/weNbhGZ.png">
@@ -11,11 +9,11 @@
 [![GitHub followers](https://img.shields.io/github/followers/urian121?style=social)](https://github.com/urian121)
 
 
-#### 🌐 Creador de la Comunidad [WebDeveloper](https://www.youtube.com/WebDeveloperUrianViera) 🎥
+### 🌐 Creador de la Comunidad [WebDeveloper](https://www.youtube.com/WebDeveloperUrianViera) 🎥
 
 La comunidad **[WebDeveloper](https://www.npmjs.com/package/nextjs-toast-notify)**, un espacio dedicado a aprender y compartir conocimientos en programación y tecnología. Juntos, aprendemos, compartimos experiencias, resolvemos desafíos y apoyamos a cada miembro en el camino hacia el éxito.
 
-#### 🏆 Contribuciones a la comunidad de Desarrolladores
+### 🏆 Contribuciones a la comunidad de Desarrolladores
 He creado varios paquetes npm como aporte a la comunidad de Devs.
 
 - **[Nextjs Toast Notify](https://www.youtube.com/WebDeveloperUrianViera)**
@@ -192,8 +190,8 @@ He creado varios paquetes npm como aporte a la comunidad de Devs.
 ### ⚙️ &nbsp; Las estadisticas del repositorio:
 
 ![](https://github-readme-stats.vercel.app/api?username=urian121&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=urian121&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=urian121&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=urian121&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=urian121&theme=tokyonight&hide_border=false)
 
 
   #### 💰 ¡Donar a través de PayPal!
