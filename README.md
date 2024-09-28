@@ -209,9 +209,9 @@ He creado varios paquetes npm como aporte a la comunidad de Devs.
 
 ### 🙌 Cómo puedes apoyar:
 
-Comparte este repositorio con otros desarrolladores que puedan beneficiarse 📢
-¡Invítame un café ☕ o una cerveza 🍺 si te ha sido útil!
-Haz una donación vía [¡PayPal!](https://www.paypal.com/donate/?hosted_button_id=4SV78MQJJH3VE) para seguir creando más contenido
-Agradece públicamente, siempre es bienvenido 🤓
+✅ Comparte este repositorio con otros **Devs** que puedan beneficiarse 📢
+✅ ¡Invítame un **café** ☕ o una **cerveza** 🍺 si te ha sido útil!
+✅ Haz una **donación** vía [¡PayPal!](https://www.paypal.com/donate/?hosted_button_id=4SV78MQJJH3VE) para seguir creando más contenido
+✅ Agradece públicamente 🤓
 
 ## ⚡ ¡No olvides SUSCRIBIRTE a mi canal! 👍
