@@ -1,70 +1,200 @@
+# **¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Soy Urian Viera**
 
-![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/banner-github-urian-viera.png)
+## Sobre Mí
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-# Hola 👋, soy Urian Viera
+**Ingeniero de Sistemas** y Desarrollador **Full Stack autodidacta**. Apasionado por la tecnología y la innovación, tengo experiencia en el desarrollo de aplicaciones web (tanto en **Backend** como en **Frontend**) y en aplicaciones **móviles**. Mi motivación es transformar ideas en soluciones digitales eficientes e impactantes.
 
-##### Desarrollador FullStack autodidacta con una pasión insaciable por el desarrollo de aplicaciones web y móviles. Mi entusiasmo por la programación me impulsa a crear aplicaciones innovadoras y eficientes, transformando ideas en realidades digitales. Disfruto explorando nuevas tecnologías y herramientas, perfeccionando continuamente mis habilidades para ofrecer soluciones de vanguardia. 
+<img src="https://i.imgur.com/weNbhGZ.png">
 
-##### La emoción de ver mis proyectos cobrar vida a través del código es incomparable, y estoy siempre en busca de nuevos desafíos que me permitan crecer y aportar valor.
-
-
-
-<h2 align="left">Algunas habilidades:</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="80" height="80"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="80" height="80"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="80" height="80"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="80" height="80"/>
-</p>
-
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/>
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/>
-  <img src="https://www.urianviera.com/_image?href=%2F_astro%2Flaravel.ry3ve85M.png&f=webp" alt="laravel" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/>
-  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="80" height="80"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="80"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="80" height="80"/>
-</p>
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCodSpPp_r_QnYIQYCjlyVGA?style=social)](https://www.youtube.com/WebDeveloperUrianViera?sub_confirmation=1)
+[![GitHub followers](https://img.shields.io/github/followers/urian121?style=social)](https://github.com/urian121)
 
 
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="80" height="80"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="80" height="80"/>
-</p>
+#### 🌐 Creador de la Comunidad [WebDeveloper](https://www.youtube.com/WebDeveloperUrianViera) 🎥
 
+La comunidad **[WebDeveloper](https://www.npmjs.com/package/nextjs-toast-notify)**, un espacio dedicado a aprender y compartir conocimientos en programación y tecnología. Juntos, aprendemos, compartimos experiencias, resolvemos desafíos y apoyamos a cada miembro en el camino hacia el éxito.
 
-## Enlaces
+#### 🏆 Contribuciones a la comunidad de Desarrolladores
+He creado varios paquetes npm como aporte a la comunidad de Devs.
 
-👉 [Mi portafolio](https://www.urianviera.com)  💻  
-👉 [Canal de Youtube](https://www.youtube.com/WebDeveloperUrianViera) 🎥
+- **[Nextjs Toast Notify](https://www.youtube.com/WebDeveloperUrianViera)**
+  Un paquete **npm** que permite mostrar notificaciones en aplicaciones de **React**, **Next.js** y aplicaciones web mediante el uso de **CDN** de manera **sencilla**, **efectiva** y **sin complicaciones**.
+
+- **[Loading Request](https://www.npmjs.com/package/loading-request)**
+  Un paquete **npm** que permite mostrar indicadores de carga durante las solicitudes **HTTP** en aplicaciones web, mejorando la experiencia del usuario. Además, incluye soporte para **CDN**, lo que permite su uso en cualquier sitio web.
 
 
 
-### Expresiones de Gratitud 🎁
-
-  - Comparte este repositorio con otros desarrolladores 📢
-  - Invítame un café ☕ o una cerveza 🍺
-  - **[¡Donar a través de PayPal!](https://www.paypal.com/donate/?hosted_button_id=4SV78MQJJH3VE)**
-  
-  - Da las gracias públicamente 🤓
-
-## ¡No olvides SUSCRIBIRTE! 👍
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Mi Stack de Tecnologías:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Css](http://img.shields.io/badge/-Css-2a65f1?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Typescript](http://img.shields.io/badge/-Typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
+## Proyectos interesantes 🔥
+
+<table>
+    <tr>
+        <td width="33%">
+            <div align="center">
+                <a href="https://github.com/urian121/Aplicacion-de-contactos-CRUD-Full-Stack-con-React-PHP-y-MySQL" target="_blank">
+                    <img src="https://www.urianviera.com/img-portada-contenidos/reactjs/agenda-contactos-react-php-y-mysql.png" width="400" alt="agenda-contactos-react-php-y-mysql">
+                </a>
+            </div>                                                                             
+        </td>
+        <td width="33%">
+            <div align="center">                                       
+                <a href="https://github.com/urian121/CRUD-Full-Stack-con-ReactJS-TypeScript-PHP-MySQL-Bootstrap5" target="_blank">
+                    <img src="https://www.urianviera.com/img-portada-contenidos/typescript/crud-ful-stack-react-typescript-php-mysql.png" width="400" alt="crud-ful-stack-react-typescript-php-mysql">
+                </a>
+            </div>
+        </td>
+        <td width="33%">
+            <div align="center">
+                <a href="https://github.com/urian121/CRUD-con-Laravel-10-y-MySQL-guia-paso-a-paso" target="_blank">
+                    <img src="https://www.urianviera.com/img-portada-contenidos/php/crud-laravel10-y-mysql.png" width="400" alt="crud-laravel10-y-mysql">
+                </a>
+            </div>
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td width="33%">
+            <div align="center">
+                <a href="https://github.com/urian121/crud-con-php-mysql-bootstrap5-usando-ventanas-modales" target="_blank">
+                    <img src="https://www.urianviera.com/img-portada-contenidos/php/crud-php-mysql-ventanas-modales.png" width="400" alt="crud-php-mysql-ventanas-modales">
+                </a>
+            </div>                                                                             
+        </td>
+        <td width="33%">
+            <div align="center">                                       
+                <a href="https://github.com/urian121/CRUD-de-Empleados-en-PHP-utilizando-PDO-y-MySQL" target="_blank">
+                    <img src="https://www.urianviera.com/img-portada-contenidos/php/crud-php-pdo-mysql.png" width="400" alt="crud-php-pdo-mysql">
+                </a>
+            </div>
+        </td>
+        <td width="33%">
+            <div align="center">
+                <a href="https://github.com/urian121/consumir-una-api-con-nextjs" target="_blank">
+                    <img src="https://www.urianviera.com/img-portada-contenidos/nextjs/consumir-api-con-nextjs.png" width="400" alt="consumir-api-con-nextjs urian viera">
+                </a>
+            </div>                                                                             
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td width="33%">
+            <div align="center">
+                <a href="https://github.com/urian121/Como-Crear-eventos-con-Fullcalendar-usando-PHP-Javascript-y-Mysql" target="_blank">
+                    <img src="https://www.urianviera.com/img-portada-contenidos/php/calendario_con_full_calendar_urain_viera_webdeveloper.png" width="400" alt="full calendario con Urian Viera">
+                </a>
+            </div>                                                                             
+        </td>
+        <td width="33%">
+            <div align="center">                                       
+                <a href="https://github.com/urian121/Full-Stack-CRUD-con-PHP-MySQL-API-Rest-y-ReactJS" target="_blank">
+                    <img src="https://www.urianviera.com/img-portada-contenidos/reactjs/full-stack-php-mysql-reactjs.png" width="400" alt="full-stack-php-mysql-reactjs urian viera">
+                </a>
+            </div>
+        </td>
+        <td width="33%">
+            <div align="center">
+                <a href="https://github.com/urian121/sistema-parking-estacionamiento" target="_blank">
+                    <img src="https://www.urianviera.com/img-portada-contenidos/php/sistema-parking-estacionamiento-urian-viera.png" width="400" alt="sistema-parking-estacionamiento-urian-viera">
+                </a>
+            </div>
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td width="33%">
+            <div align="center">
+                <a href="https://github.com/urian121/CRUD-Full-Stack-con-ReactJS-TypeScript-PHP-MySQL-Bootstrap5" target="_blank">
+                    <img src="https://www.urianviera.com/img-portada-contenidos/typescript/crud-ful-stack-react-typescript-php-mysql.png" width="400" alt="crud-ful-stack-react-typescript-php-mysql urian viera">
+                </a>
+            </div>                                                                             
+        </td>
+        <td width="33%">
+            <div align="center">                                       
+                <a href="https://github.com/urian121/CRUD-completo-Firebase-y-JavaScript" target="_blank">
+                    <img src="https://www.urianviera.com/img-portada-contenidos/javascript/crud-completo-firebase-y-javascript.png" width="400" alt="crud-completo-firebase-y-javascript Urian Viera">
+                </a>
+            </div>
+        </td>
+        <td width="33%">
+            <div align="center">
+                <a href="https://github.com/urian121/conectar-mysql-con-nextjs" target="_blank">
+                    <img src="https://www.urianviera.com/img-portada-contenidos/nextjs/conectar-mysql-con-nextjs.png" width="400" alt="conectar-mysql-con-nextjs urian viera">
+                </a>
+            </div>
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+    <td width="33%">
+            <div align="center">
+                <a href="https://github.com/urian121/consumir-una-api-con-nextjs" target="_blank">
+                    <img src="https://www.urianviera.com/img-portada-contenidos/nextjs/consumir-api-con-nextjs.png" width="400" alt="consumir-api-con-nextjs urian viera">
+                </a>
+            </div>                                                                             
+        </td>
+        <td width="33%">
+            <div align="center">
+                <a href="https://github.com/urian121/Full-Stack-CRUD-con-NodeJS-Express-MySQL-API-Rest-y-ReactJS" target="_blank">
+                    <img src="https://www.urianviera.com/img-portada-contenidos/reactjs/crud-full-stack-con-node-y-react.png" width="400" alt="Crud full stack con Nodejs y ReactJS urian viera">
+                </a>
+            </div>                                                                             
+        </td>
+        <td width="33%">
+            <div align="center">                                       
+                <a href="https://www.youtube.com/watch?v=7_b5lWUu-ac" target="_blank">
+                    <img src="https://www.urianviera.com/img-portada-contenidos/python/sala_chat_amigos_online.png" width="400" alt="Sala de chat con Python mysql y Flask Urian Viera">
+                </a>
+            </div>
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+     <td width="33%">
+            <div align="center">
+                <a href="https://github.com/urian121/CRUD-COMPLETO-con-Python-MySQL-y-un-Dashboard" target="_blank">
+                    <img src="https://www.urianviera.com/img-portada-contenidos/python/dashboard-python-registrar-cliente-urian.png" width="400" alt="Crud completo python y Django Urian viera">
+                </a>
+            </div>
+        </td>
+        <td width="33%">
+            <div align="center">
+                <a href="https://github.com/urian121/Crea-Tu-Carrito-de-Compras-Tienda-Online-con-la-Magia-de-PHP-JavaScript-MySQL" target="_blank">
+                    <img src="https://www.urianviera.com/img-portada-contenidos/php/productos-tienda-online-urian-viera.png" width="400" alt="productos-tienda-online-urian-viera">
+                </a>
+            </div>
+        </td>
+        <td width="33%">
+            <div align="center">
+                <a href="https://github.com/urian121/CRUD-Completo-con-Python-Django-MySQL" target="_blank">
+                    <img src="https://www.urianviera.com/img-portada-contenidos/python/lista-de-registros-crud-django-urian-viera.png" width="400" alt="Crud lista-de-registros-crud-django-urian-viera">
+                </a>
+            </div>                                                                             
+        </td>
+    </tr>
+</table>
+
+
+### ⚙️ &nbsp; Las estadisticas del repositorio:
+
+![](https://github-readme-stats.vercel.app/api?username=urian121&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=urian121&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=urian121&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+  #### 💰 ¡Donar a través de PayPal!
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/donate/?hosted_button_id=4SV78MQJJH3VE) 
