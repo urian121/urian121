@@ -3,7 +3,7 @@
 ### Sobre Mí 🤔
 **Ingeniero de Sistemas** y Desarrollador **Full Stack autodidacta**. Apasionado por la tecnología y la innovación, tengo experiencia en el desarrollo de aplicaciones web (tanto en **Backend** como en **Frontend**) y en aplicaciones **móviles**. Mi motivación es transformar ideas en soluciones digitales eficientes e impactantes.
 
-<img src="https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/banner-github-urian-viera-fulltstack.png">
+<img src="https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/github-urian-viera-fulltstack.png">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCodSpPp_r_QnYIQYCjlyVGA?style=social)](https://www.youtube.com/WebDeveloperUrianViera?sub_confirmation=1)
 [![GitHub followers](https://img.shields.io/github/followers/urian121?style=social)](https://github.com/urian121)
@@ -162,7 +162,14 @@ He creado varios paquetes npm como aporte a la comunidad de Devs.
 
 <table>
     <tr>
-     <td width="33%">
+        <td width="33%">
+            <div align="center">
+                <a href="https://github.com/urian121/CRUD-Completo-con-Python-Django-MySQL" target="_blank">
+                    <img src="https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/crud-django-y-python-urian-viera.png" width="400" alt="Crud lista-de-registros-crud-django-urian-viera">
+                </a>
+            </div>                                                                             
+        </td>
+        <td width="33%">
             <div align="center">
                 <a href="https://github.com/urian121/CRUD-COMPLETO-con-Python-MySQL-y-un-Dashboard" target="_blank">
                     <img src="https://www.urianviera.com/img-portada-contenidos/python/dashboard-python-registrar-cliente-urian.png" width="400" alt="Crud completo python y Django Urian viera">
@@ -175,13 +182,6 @@ He creado varios paquetes npm como aporte a la comunidad de Devs.
                     <img src="https://www.urianviera.com/img-portada-contenidos/php/productos-tienda-online-urian-viera.png" width="400" alt="productos-tienda-online-urian-viera">
                 </a>
             </div>
-        </td>
-        <td width="33%">
-            <div align="center">
-                <a href="https://github.com/urian121/CRUD-Completo-con-Python-Django-MySQL" target="_blank">
-                    <img src="https://www.urianviera.com/img-portada-contenidos/python/lista-de-registros-crud-django-urian-viera.png" width="400" alt="Crud lista-de-registros-crud-django-urian-viera">
-                </a>
-            </div>                                                                             
         </td>
     </tr>
 </table>
