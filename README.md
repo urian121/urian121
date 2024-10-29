@@ -201,14 +201,14 @@ He creado varios paquetes npm como aporte a la comunidad de Devs.
 Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo para desarrollo web y más.
 
 ### 🌐 Admin Templates y Plantillas
-- [Visitar](https://templatefor.net/real-estate-html-website-templates/)
-- [Visitar](https://themefisher.com/free-bootstrap-templates)
-- [Visitar](https://themewagon.com/)
-- [Visitar](https://htmlrev.com/)
-- [Visitar](https://www.bootstrapdash.com/bootstrap-free-admin-templates)
-- [Visitar](https://economictheme.net/index)
-- [Visitar](https://jamstackthemes.dev/)
-- [Visitar](https://plantillashtmlgratis.com/en/home/)
+- [Real Estate Templates](https://templatefor.net/real-estate-html-website-templates/)
+- [Themefisher - Bootstrap Templates](https://themefisher.com/free-bootstrap-templates)
+- [Themewagon](https://themewagon.com/)
+- [HTMLRev - Free Templates](https://htmlrev.com/)
+- [BootstrapDash - Admin Templates](https://www.bootstrapdash.com/bootstrap-free-admin-templates)
+- [Economic Theme](https://economictheme.net/index)
+- [Jamstack Themes](https://jamstackthemes.dev/)
+- [Plantillas HTML Gratis](https://plantillashtmlgratis.com/en/home/)
 
 
 ### 🛣️ APIs 
