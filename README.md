@@ -240,6 +240,17 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
 ### 🤖 Inteligencia Artificial
 - [Codeium](https://codeium.com/)
 - [Supermaven](https://supermaven.com/)
+- [ChatGPT](https://chatgpt.com/)
+- [Claude](https://claude.ai/)
+- [Chat Blackbox](https://www.blackbox.ai/)
+- [Gemini](https://gemini.google.com/app)
+- [Phind](https://www.phind.com/search?home=true)
+- [V0](https://v0.dev/)
+- [Easy peasy](https://easy-peasy.ai/es)
+- [APIGen](https://www.apigen.com/)
+- [Anthropic Console](https://console.anthropic.com/)
+- [Tabnine AI](https://www.tabnine.com/)
+- [Llama Coder](https://llamacoder.together.ai/)
 
 ### 📧 Envío de Emails
 - [Brevo](https://www.brevo.com/es/)
