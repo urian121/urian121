@@ -196,6 +196,85 @@ He creado varios paquetes npm como aporte a la comunidad de Devs.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=urian121&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats">
 </div>
 
+
+## Recursos Web 🔖
+Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo para desarrollo web y más.
+
+### 🌐 Admin Templates y Plantillas
+- [Visitar](https://templatefor.net/real-estate-html-website-templates/)
+- [Visitar](https://themefisher.com/free-bootstrap-templates)
+- [Visitar](https://themewagon.com/)
+- [Visitar](https://htmlrev.com/)
+- [Visitar](https://www.bootstrapdash.com/bootstrap-free-admin-templates)
+- [Visitar](https://economictheme.net/index)
+- [Visitar](https://jamstackthemes.dev/)
+- [Visitar](https://plantillashtmlgratis.com/en/home/)
+
+
+### 🛣️ APIs 
+- [JSON Placeholder](https://jsonplaceholder.typicode.com/)
+- [Dog API](https://dog.ceo/dog-api/)
+- [Picsum Photos](https://picsum.photos/)
+- [REST Countries](https://restcountries.com/)
+- [Fake Store API](https://fakestoreapi.com/)
+- [Dummy JSON](https://dummyjson.com/)
+- [NewsAPI](https://newsapi.org/)
+- [RapidAPI](https://rapidapi.com/learn/api/rest)
+- [API Colombia](https://api-colombia.com/)
+- [Reqres](https://reqres.in/api/users)
+- [API Vercel](https://api.vercel.app/blog)
+- [Sling Academy API](https://api.slingacademy.com/v1/sample-data/users)
+- [Ticketmaster API](https://developer.ticketmaster.com/products-and-docs/apis/discovery-api/v2/)
+- [Random User](https://randomuser.me/)
+- [The Simpsons Quote API](https://thesimpsonsquoteapi.glitch.me/)
+- [The Meal DB](https://www.themealdb.com/)
+- [Generador DNI API](https://api.generadordni.es/)
+- [Public APIs](https://publicapis.dev/)
+  
+
+### 🃏 Bases de Datos
+- [Supabase](https://supabase.com/)
+- [Turso](https://turso.tech/)
+- [Postgres New](https://postgres.new/)
+
+### 🤖 Inteligencia Artificial
+- [Codeium](https://codeium.com/)
+- [Supermaven](https://supermaven.com/)
+
+### 📧 Envío de Emails
+- [Brevo](https://www.brevo.com/es/)
+
+### ☁️ Almacenamiento en la Nube
+- [MEGA](https://mega.nz)
+
+### 📝 CMS
+- [Strapi](https://strapi.io/)
+
+### 📄 Documentación
+- [Starlight - Astro Docs](https://starlight.astro.build/es/)
+
+### 🎨 Diseño y Edición
+- [Canva](https://www.canva.com/)
+- [CapCut](https://www.capcut.com/es-es/)
+
+### 🚀 Sitios para Deploy
+- [Vercel](https://vercel.com/)
+- [Netlify](https://www.netlify.com/)
+- [PythonAnywhere](https://www.pythonanywhere.com/)
+- [Railway](https://railway.app/)
+- [Render](https://render.com/)
+- [Deno Deploy](https://deno.com/deploy)
+- [Cloudinary](https://cloudinary.com/)
+- [Cloudflare](https://dash.cloudflare.com/login)
+- [Filess.io](https://dash.filess.io/)
+- [Turso](https://turso.tech/)
+
+
+# 🎍 Librerías
+- [Nextjs Toast Notify](https://www.npmjs.com/package/nextjs-toast-notify)
+- [Loading Request](https://www.npmjs.com/package/loading-request)
+
+
 ### 🌟 Expresiones de Gratitud 🎁
 
 ¡Gracias por tomarte el tiempo de visitar y apoyar mis proyectos! Aquí te dejo algunos lugares donde puedes seguir aprendiendo y apoyarme:
