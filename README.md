@@ -187,7 +187,7 @@ He creado varios paquetes npm como aporte a la comunidad de Devs.
 </table>
 
 
-### ⚙️ &nbsp; Las estadisticas del repositorio:
+### ⚙️ &nbsp; Las estadisticas del repositorio
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=urian121&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urian121&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
@@ -196,6 +196,47 @@ He creado varios paquetes npm como aporte a la comunidad de Devs.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=urian121&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats">
 </div>
 
+
+<div style="display: flex; justify-content: space-between;">
+<div style="flex: 1; margin-right: 10px;">
+<h3> 🌐 Admin Templates y Plantillas <hr></h3>
+<br>
+
+  - [Real Estate Templates](https://templatefor.net/real-estate-html-website-templates/)
+  - [Themefisher - Bootstrap Templates](https://themefisher.com/free-bootstrap-templates)
+  - [Themewagon](https://themewagon.com/)
+  - [HTMLRev - Free Templates](https://htmlrev.com/)
+  - [BootstrapDash - Admin Templates](https://www.bootstrapdash.com/bootstrap-free-admin-templates)
+  - [Economic Theme](https://economictheme.net/index)
+  - [Jamstack Themes](https://jamstackthemes.dev/)
+  - [Plantillas HTML Gratis](https://plantillashtmlgratis.com/en/home/)
+  </div>
+
+  <div style="flex: 1; margin-left: 10px;">
+    <h3> 🛣️ APIs <hr> </h3>
+    <br>
+
+  - [JSON Placeholder](https://jsonplaceholder.typicode.com/)
+  - [Dog API](https://dog.ceo/dog-api/)
+  - [Picsum Photos](https://picsum.photos/)
+  - [REST Countries](https://restcountries.com/)
+  - [Fake Store API](https://fakestoreapi.com/)
+  - [Dummy JSON](https://dummyjson.com/)
+  - [NewsAPI](https://newsapi.org/)
+  - [RapidAPI](https://rapidapi.com/learn/api/rest)
+  - [API Colombia](https://api-colombia.com/)
+  - [Reqres](https://reqres.in/api/users)
+  - [API Vercel](https://api.vercel.app/blog)
+  - [Dragon Ball API](https://web.dragonball-api.com/)
+  - [Sling Academy API](https://api.slingacademy.com/v1/sample-data/users)
+  - [Ticketmaster API](https://developer.ticketmaster.com/products-and-docs/apis/discovery-api/v2/)
+  - [Random User](https://randomuser.me/)
+  - [The Simpsons Quote API](https://thesimpsonsquoteapi.glitch.me/)
+  - [The Meal DB](https://www.themealdb.com/)
+  - [Generador DNI API](https://api.generadordni.es/)
+  - [Public APIs](https://publicapis.dev/)
+  </div>
+</div>
 
 ## Recursos Web 🔖
 Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo para desarrollo web y más.
