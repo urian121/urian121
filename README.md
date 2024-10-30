@@ -272,7 +272,9 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
 - [Turso](https://turso.tech/)
 
 
+
 ## 🎍 Librerías favoritas ❤️
+
 <div style="padding: 0.9rem 1.5rem;border-left-width: 0.5rem;
   border-left-style: solid;
   margin: 1rem 0;background-color: #c6ffe5;
@@ -280,6 +282,7 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
   color: #222;">
 
 👉 [Nextjs Toast Notify](https://www.npmjs.com/package/nextjs-toast-notify)
+
 👉 [Loading Request](https://www.npmjs.com/package/loading-request)
 </div>
 
@@ -289,6 +292,7 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
   margin: 1rem 0;background-color: #cfd4fc;
   border-color: #3d50f5;
   color: #333;">
+
 ¡Gracias por tomarte el tiempo de visitar y apoyar mis proyectos! Aquí te dejo algunos lugares donde puedes seguir aprendiendo y apoyarme:
 
 🚀 Explora mi web: [urianviera.com](https://www.urianviera.com)
@@ -300,6 +304,7 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
 </div>
 
 ### 🙌 Cómo puedes apoyar:
+
 <div style="padding: 0.9rem 1.5rem;border-left-width: 0.5rem;
   border-left-style: solid;
   margin: 1rem 0;background-color: #fceac5;
