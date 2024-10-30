@@ -272,27 +272,44 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
 - [Turso](https://turso.tech/)
 
 
-##🎍 Librerías favoritas ❤️
-- [Nextjs Toast Notify](https://www.npmjs.com/package/nextjs-toast-notify)
-- [Loading Request](https://www.npmjs.com/package/loading-request)
+## 🎍 Librerías favoritas ❤️
+<div style="padding: 0.9rem 1.5rem;border-left-width: 0.5rem;
+  border-left-style: solid;
+  margin: 1rem 0;background-color: #c6ffe5;
+  border-color: #42b983;
+  color: #222;">
 
+👉 [Nextjs Toast Notify](https://www.npmjs.com/package/nextjs-toast-notify)
+👉 [Loading Request](https://www.npmjs.com/package/loading-request)
+</div>
 
 ### 🌟 Expresiones de Gratitud 🎁
-
+<div style="padding: 0.9rem 1.5rem;border-left-width: 0.5rem;
+  border-left-style: solid;
+  margin: 1rem 0;background-color: #cfd4fc;
+  border-color: #3d50f5;
+  color: #333;">
 ¡Gracias por tomarte el tiempo de visitar y apoyar mis proyectos! Aquí te dejo algunos lugares donde puedes seguir aprendiendo y apoyarme:
 
 🚀 Explora mi web: [urianviera.com](https://www.urianviera.com)
-🎥 Suscríbete a la comunidad en YouTube: [WebDeveloper](https://www.urianviera.com)
-👔 Conéctate en LinkedIn: [Urian Viera](https://www.linkedin.com/in/urian-viera)
-👨‍💻 Sígueme en GitHub: [Urian Viera](https://github.com/urian121)
+🎥 Suscríbete a la comunidad en **YouTube**: [WebDeveloper](https://www.urianviera.com)
+👔 Conéctate en **LinkedIn**: [Urian Viera](https://www.linkedin.com/in/urian-viera)
+👨‍💻 Sígueme en **GitHub**: [Urian Viera](https://github.com/urian121)
 
 ¡Aquí encontrarás un montón de contenido valioso para seguir aprendiendo y mejorar tus habilidades como desarrollador! 🚀
+</div>
 
 ### 🙌 Cómo puedes apoyar:
+<div style="padding: 0.9rem 1.5rem;border-left-width: 0.5rem;
+  border-left-style: solid;
+  margin: 1rem 0;background-color: #fceac5;
+  border-color: #f5bb3d;
+  color: #333;">
 
-- ✅ Comparte este repositorio con otros **Devs** que puedan beneficiarse 📢
-- ✅ ¡Invítame un **café** ☕ o una **cerveza** 🍺 si te ha sido útil!
-- ✅ Haz una **donación** vía [¡PayPal!](https://www.paypal.com/donate/?hosted_button_id=4SV78MQJJH3VE) para seguir creando más contenido
-- ✅ Agradece públicamente 🤓
+✅ Comparte este repositorio con otros **Devs** que puedan beneficiarse 📢
+✅ ¡Invítame un **café** ☕ o una **cerveza** 🍺 si te ha sido útil!
+✅ Haz una **donación** vía [¡PayPal!](https://www.paypal.com/donate/?hosted_button_id=4SV78MQJJH3VE) para seguir creando más contenido
+✅ Agradece públicamente 🤓
+</div>
 
 ## ⚡ ¡No olvides SUSCRIBIRTE a mi canal! 👍
