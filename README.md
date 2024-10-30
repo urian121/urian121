@@ -187,11 +187,10 @@ He creado varios paquetes npm como aporte a la comunidad de Devs.
 </table>
 
 
-## Recursos Web 🔖
+# Recursos Web 🔖
 Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo para desarrollo web y más.
 
-### 🌐 Admin Templates y Plantillas
-***
+## 🌐 Admin Templates y Plantillas
 - [Real Estate Templates](https://templatefor.net/real-estate-html-website-templates/)
 - [Themefisher - Bootstrap Templates](https://themefisher.com/free-bootstrap-templates)
 - [Themewagon](https://themewagon.com/)
@@ -201,8 +200,7 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
 - [Jamstack Themes](https://jamstackthemes.dev/)
 - [Plantillas HTML Gratis](https://plantillashtmlgratis.com/en/home/)
 
-
-### 🛣️ APIs 
+## 🛣️ APIs 
 - [JSON Placeholder](https://jsonplaceholder.typicode.com/)
 - [Dog API](https://dog.ceo/dog-api/)
 - [Picsum Photos](https://picsum.photos/)
@@ -222,15 +220,14 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
 - [The Meal DB](https://www.themealdb.com/)
 - [Generador DNI API](https://api.generadordni.es/)
 - [Public APIs](https://publicapis.dev/)
-  
 
-### 🃏 Bases de Datos
+## 🃏 Bases de Datos
 - [Supabase](https://supabase.com/)
 - [Turso](https://turso.tech/)
 - [Postgres New](https://postgres.new/)
 - [Firebase](https://firebase.google.com/)
 
-### 🤖 Inteligencia Artificial
+## 🤖 Inteligencia Artificial
 - [Codeium](https://codeium.com/)
 - [Supermaven](https://supermaven.com/)
 - [ChatGPT](https://chatgpt.com/)
@@ -245,23 +242,23 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
 - [Tabnine AI](https://www.tabnine.com/)
 - [Llama Coder](https://llamacoder.together.ai/)
 
-### 📧 Envío de Emails
+## 📧 Envío de Emails
 - [Brevo](https://www.brevo.com/es/)
 
-### ☁️ Almacenamiento en la Nube
+## ☁️ Almacenamiento en la Nube
 - [MEGA](https://mega.nz)
 
-### 📝 CMS
+## 📝 CMS
 - [Strapi](https://strapi.io/)
 
-### 📄 Documentación
+## 📄 Documentación
 - [Starlight - Astro Docs](https://starlight.astro.build/es/)
 
-### 🎨 Diseño y Edición
+## 🎨 Diseño y Edición
 - [Canva](https://www.canva.com/)
 - [CapCut](https://www.capcut.com/es-es/)
 
-### 🚀 Sitios para Deploy
+## 🚀 Sitios para Deploy
 - [Vercel](https://vercel.com/)
 - [Firebase](https://firebase.google.com/)
 - [Netlify](https://www.netlify.com/)
@@ -275,7 +272,7 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
 - [Turso](https://turso.tech/)
 
 
-# 🎍 Librerías
+##🎍 Librerías favoritas ❤️
 - [Nextjs Toast Notify](https://www.npmjs.com/package/nextjs-toast-notify)
 - [Loading Request](https://www.npmjs.com/package/loading-request)
 
