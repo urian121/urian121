@@ -277,7 +277,7 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
 ✅ [Loading Request](https://www.npmjs.com/package/loading-request)
 
 
-### 🌟 Expresiones de Gratitud 🎁
+## 🌟 Expresiones de Gratitud 🎁
 ¡Gracias por tomarte el tiempo de visitar y apoyar mis proyectos! Aquí te dejo algunos lugares donde puedes seguir aprendiendo y apoyarme:
 
 🚀 Explora mi **web**: [urianviera.com](https://www.urianviera.com)
