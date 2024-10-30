@@ -237,7 +237,7 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
 - [Supabase](https://supabase.com/)
 - [Turso](https://turso.tech/)
 - [Postgres New](https://postgres.new/)
-- [Firebase](https://console.firebase.google.com/u/0/)
+- [Firebase](https://firebase.google.com/)
 
 ### 🤖 Inteligencia Artificial
 - [Codeium](https://codeium.com/)
@@ -272,7 +272,7 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
 
 ### 🚀 Sitios para Deploy
 - [Vercel](https://vercel.com/)
-- [Firebase](https://console.firebase.google.com/u/0/)
+- [Firebase](https://firebase.google.com/)
 - [Netlify](https://www.netlify.com/)
 - [PythonAnywhere](https://www.pythonanywhere.com/)
 - [Railway](https://railway.app/)
