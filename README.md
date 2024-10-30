@@ -223,6 +223,7 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
 - [API Colombia](https://api-colombia.com/)
 - [Reqres](https://reqres.in/api/users)
 - [API Vercel](https://api.vercel.app/blog)
+- [Dragon Ball API](https://web.dragonball-api.com/)
 - [Sling Academy API](https://api.slingacademy.com/v1/sample-data/users)
 - [Ticketmaster API](https://developer.ticketmaster.com/products-and-docs/apis/discovery-api/v2/)
 - [Random User](https://randomuser.me/)
