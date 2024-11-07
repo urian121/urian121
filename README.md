@@ -296,33 +296,3 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
 
 ## ⚡ ¡No olvides SUSCRIBIRTE a mi canal! 👍
 
-## Ejemplos de bloques de nota en Markdown
-
-### Nota General
-> [!NOTE]
-> Este bloque es una nota general. Se usa para información adicional o aclaraciones que pueden ser útiles pero no son críticas.
-
----
-
-### Importante
-> [!IMPORTANT]
-> Esta es una información crítica que debe leerse y entenderse antes de continuar. Ignorar esta nota podría causar problemas en el funcionamiento del sistema.
-
----
-
-### Advertencia
-> [!WARNING]
-> ¡Advertencia! Realizar esta acción sin las precauciones necesarias podría causar la pérdida de datos o un mal funcionamiento del sistema.
-
----
-
-### Consejo
-> [!TIP]
-> Consejo: Puedes utilizar el atajo `Ctrl + F` para buscar rápidamente en este documento.
-
----
-
-### Precaución
-> [!CAUTION]
-> Precaución: Este paso puede llevar un tiempo considerable. Asegúrate de tener una conexión estable antes de continuar.
-
