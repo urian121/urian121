@@ -16,10 +16,10 @@ La comunidad **[WebDeveloper](https://www.npmjs.com/package/nextjs-toast-notify)
 ### 🏆 Contribuciones a la comunidad de Desarrolladores
 He creado varios paquetes npm como aporte a la comunidad de Devs.
 
-- 👉 **[Nextjs Toast Notify](https://www.youtube.com/WebDeveloperUrianViera)**
+> [!TIP] 
+> - 👉 **[Nextjs Toast Notify](https://www.youtube.com/WebDeveloperUrianViera)**
   Un paquete **npm** que permite mostrar notificaciones en aplicaciones de **React**, **Next.js** y aplicaciones web mediante el uso de **CDN** de manera **sencilla**, **efectiva** y **sin complicaciones**.
-
-- 👉 **[Loading Request](https://www.npmjs.com/package/loading-request)**
+> - 👉 **[Loading Request](https://www.npmjs.com/package/loading-request)**
   Un paquete **npm** que permite mostrar indicadores de carga durante las solicitudes **HTTP** en aplicaciones web, mejorando la experiencia del usuario. Además, incluye soporte para **CDN**, lo que permite su uso en cualquier sitio web.
 
 
