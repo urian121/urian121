@@ -289,11 +289,16 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
 
 ¡Aquí encontrarás un montón de contenido valioso para seguir aprendiendo y mejorar tus habilidades como desarrollador! 🚀
 
+
 ### 🙌 Cómo puedes apoyar:
-> [!TIP] 
-> ✅ Comparte este repositorio con otros **Devs** que puedan beneficiarse 📢
-> ✅ ¡Invítame un **café** ☕ o una **cerveza** 🍺 si te ha sido útil!
-> ✅ Haz una **donación** vía [¡PayPal!](https://www.paypal.com/donate/?hosted_button_id=4SV78MQJJH3VE) para seguir creando más contenido
-> ✅ Agradece públicamente 🤓
+
+> [!TIP] Tu apoyo es fundamental para seguir creando contenido 🚀
+
+- ✅ Comparte este repositorio con otros **Devs** que puedan beneficiarse 📢
+- ✅ ¡Invítame un **café** ☕ o una **cerveza** 🍺 si te ha sido útil!
+- ✅ Haz una **donación** vía [¡PayPal!](https://www.paypal.com/donate/?hosted_button_id=4SV78MQJJH3VE) para seguir creando más contenido
+- ✅ Agradece públicamente 🤓
+
 
 ## ⚡ ¡No olvides SUSCRIBIRTE a mi canal! 👍
+
