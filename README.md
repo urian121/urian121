@@ -11,13 +11,12 @@
 
 ### 🌐 Creador de la Comunidad [WebDeveloper](https://www.youtube.com/WebDeveloperUrianViera) 🎥
 
-> [!NOTE]
-> La comunidad **[WebDeveloper](https://www.npmjs.com/package/nextjs-toast-notify)**, un espacio dedicado a aprender y compartir conocimientos en programación y tecnología. Juntos, aprendemos, compartimos experiencias, resolvemos desafíos y apoyamos a cada miembro en el camino hacia el éxito.
+La comunidad **[WebDeveloper](https://www.npmjs.com/package/nextjs-toast-notify)**, un espacio dedicado a aprender y compartir conocimientos en programación y tecnología. Juntos, aprendemos, compartimos experiencias, resolvemos desafíos y apoyamos a cada miembro en el camino hacia el éxito.
 
 ### 🏆 Contribuciones a la comunidad de Desarrolladores
 He creado varios paquetes npm como aporte a la comunidad de Devs.
 
-> [!IMPORTANT]
+> [!TIP] 
 > - 👉 **[Nextjs Toast Notify](https://www.youtube.com/WebDeveloperUrianViera)**
   Un paquete **npm** que permite mostrar notificaciones en aplicaciones de **React**, **Next.js** y aplicaciones web mediante el uso de **CDN** de manera **sencilla**, **efectiva** y **sin complicaciones**.
 > - 👉 **[Loading Request](https://www.npmjs.com/package/loading-request)**
@@ -283,19 +282,18 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
 ¡Gracias por tomarte el tiempo de visitar y apoyar mis proyectos! Aquí te dejo algunos lugares donde puedes seguir aprendiendo y apoyarme:
 
 > [!NOTE]
-🚀 Explora mi **web**: [urianviera.com](https://www.urianviera.com)
-🎥 Suscríbete a la comunidad en **YouTube**: [WebDeveloper](https://www.urianviera.com)
-👔 Conéctate en **LinkedIn**: [Urian Viera](https://www.linkedin.com/in/urian-viera)
-👨‍💻 Sígueme en **GitHub**: [Urian Viera](https://github.com/urian121)
+> 🚀 Explora mi **web**: [urianviera.com](https://www.urianviera.com)
+> 🎥 Suscríbete a la comunidad en **YouTube**: [WebDeveloper](https://www.urianviera.com)
+> 👔 Conéctate en **LinkedIn**: [Urian Viera](https://www.linkedin.com/in/urian-viera)
+> 👨‍💻 Sígueme en **GitHub**: [Urian Viera](https://github.com/urian121)
 
 ¡Aquí encontrarás un montón de contenido valioso para seguir aprendiendo y mejorar tus habilidades como desarrollador! 🚀
 
 ### 🙌 Cómo puedes apoyar:
 > [!TIP] 
-Tu apoyo es fundamental para seguir creando contenido 🚀
-✅ Comparte este repositorio con otros **Devs** que puedan beneficiarse 📢
-✅ ¡Invítame un **café** ☕ o una **cerveza** 🍺 si te ha sido útil!
-✅ Haz una **donación** vía [¡PayPal!](https://www.paypal.com/donate/?hosted_button_id=4SV78MQJJH3VE) para seguir creando más contenido
-✅ Agradece públicamente 🤓
+> ✅ Comparte este repositorio con otros **Devs** que puedan beneficiarse 📢
+> ✅ ¡Invítame un **café** ☕ o una **cerveza** 🍺 si te ha sido útil!
+> ✅ Haz una **donación** vía [¡PayPal!](https://www.paypal.com/donate/?hosted_button_id=4SV78MQJJH3VE) para seguir creando más contenido
+> ✅ Agradece públicamente 🤓
 
 ## ⚡ ¡No olvides SUSCRIBIRTE a mi canal! 👍
