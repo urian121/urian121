@@ -11,6 +11,10 @@
 
 ### 🌐 Creador de la Comunidad [WebDeveloper](https://www.youtube.com/WebDeveloperUrianViera) 🎥
 
+> [!NOTE] Comunidad 
+> La comunidad **[WebDeveloper](https://www.npmjs.com/package/nextjs-toast-notify)**, un espacio dedicado a aprender y compartir conocimientos en programación y tecnología. Juntos, aprendemos, compartimos experiencias, resolvemos desafíos y apoyamos a cada miembro en el camino hacia el éxito.
+
+
 > [!NOTE] Comunidad [WebDeveloper](https://www.youtube.com/WebDeveloperUrianViera)
 > La comunidad **[WebDeveloper](https://www.npmjs.com/package/nextjs-toast-notify)**, un espacio dedicado a aprender y compartir conocimientos en programación y tecnología. Juntos, aprendemos, compartimos experiencias, resolvemos desafíos y apoyamos a cada miembro en el camino hacia el éxito.
 
