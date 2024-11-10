@@ -11,19 +11,16 @@
 
 ### 🌐 Creador de la Comunidad [WebDeveloper](https://www.youtube.com/WebDeveloperUrianViera) 🎥
 
-La comunidad **[WebDeveloper](https://www.npmjs.com/package/nextjs-toast-notify)**, un espacio dedicado a aprender y compartir conocimientos en programación y tecnología. Juntos, aprendemos, compartimos experiencias, resolvemos desafíos y apoyamos a cada miembro en el camino hacia el éxito.
-
-> [!IMPORTANT]
+> [!NOTE]
 > La comunidad **[WebDeveloper](https://www.npmjs.com/package/nextjs-toast-notify)**, un espacio dedicado a aprender y compartir conocimientos en programación y tecnología. Juntos, aprendemos, compartimos experiencias, resolvemos desafíos y apoyamos a cada miembro en el camino hacia el éxito.
-
 
 ### 🏆 Contribuciones a la comunidad de Desarrolladores
 He creado varios paquetes npm como aporte a la comunidad de Devs.
 
-- 👉 **[Nextjs Toast Notify](https://www.youtube.com/WebDeveloperUrianViera)**
+> [!IMPORTANT]
+> - 👉 **[Nextjs Toast Notify](https://www.youtube.com/WebDeveloperUrianViera)**
   Un paquete **npm** que permite mostrar notificaciones en aplicaciones de **React**, **Next.js** y aplicaciones web mediante el uso de **CDN** de manera **sencilla**, **efectiva** y **sin complicaciones**.
-
-- 👉 **[Loading Request](https://www.npmjs.com/package/loading-request)**
+> - 👉 **[Loading Request](https://www.npmjs.com/package/loading-request)**
   Un paquete **npm** que permite mostrar indicadores de carga durante las solicitudes **HTTP** en aplicaciones web, mejorando la experiencia del usuario. Además, incluye soporte para **CDN**, lo que permite su uso en cualquier sitio web.
 
 
@@ -245,6 +242,7 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
 - [Anthropic Console](https://console.anthropic.com/)
 - [Tabnine AI](https://www.tabnine.com/)
 - [Llama Coder](https://llamacoder.together.ai/)
+- [Postgres SQL IA](https://postgres.new/)
 
 ## 📧 Envío de Emails
 - [Brevo](https://www.brevo.com/es/)
@@ -284,6 +282,7 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
 ## 🌟 Expresiones de Gratitud 🎁
 ¡Gracias por tomarte el tiempo de visitar y apoyar mis proyectos! Aquí te dejo algunos lugares donde puedes seguir aprendiendo y apoyarme:
 
+> [!NOTE] Recuerda seguirme en mis redes y recursos:
 🚀 Explora mi **web**: [urianviera.com](https://www.urianviera.com)
 🎥 Suscríbete a la comunidad en **YouTube**: [WebDeveloper](https://www.urianviera.com)
 👔 Conéctate en **LinkedIn**: [Urian Viera](https://www.linkedin.com/in/urian-viera)
@@ -292,7 +291,7 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
 ¡Aquí encontrarás un montón de contenido valioso para seguir aprendiendo y mejorar tus habilidades como desarrollador! 🚀
 
 ### 🙌 Cómo puedes apoyar:
-
+> [!TIP]
 ✅ Comparte este repositorio con otros **Devs** que puedan beneficiarse 📢
 ✅ ¡Invítame un **café** ☕ o una **cerveza** 🍺 si te ha sido útil!
 ✅ Haz una **donación** vía [¡PayPal!](https://www.paypal.com/donate/?hosted_button_id=4SV78MQJJH3VE) para seguir creando más contenido
