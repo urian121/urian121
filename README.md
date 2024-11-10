@@ -281,14 +281,12 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
 ## 🌟 Expresiones de Gratitud 🎁
 ¡Gracias por tomarte el tiempo de visitar y apoyar mis proyectos! Aquí te dejo algunos lugares donde puedes seguir aprendiendo y apoyarme:
 
-> [!NOTE]
 🚀 Explora mi **web**: [urianviera.com](https://www.urianviera.com)
 🎥 Suscríbete a la comunidad en **YouTube**: [WebDeveloper](https://www.urianviera.com)
 👔 Conéctate en **LinkedIn**: [Urian Viera](https://www.linkedin.com/in/urian-viera)
 👨‍💻 Sígueme en **GitHub**: [Urian Viera](https://github.com/urian121)
 
 ¡Aquí encontrarás un montón de contenido valioso para seguir aprendiendo y mejorar tus habilidades como desarrollador! 🚀
-
 
 ### 🙌 Cómo puedes apoyar:
 
@@ -297,6 +295,4 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
 ✅ Haz una **donación** vía [¡PayPal!](https://www.paypal.com/donate/?hosted_button_id=4SV78MQJJH3VE) para seguir creando más contenido
 ✅ Agradece públicamente 🤓
 
-
 ## ⚡ ¡No olvides SUSCRIBIRTE a mi canal! 👍
-
