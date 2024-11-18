@@ -278,6 +278,13 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
 ✅ [Loading Request](https://www.npmjs.com/package/loading-request)
 
 
+## Herramientas 🚀
+
+- [**Generador de Archivos .gitignore**](https://www.toptal.com/developers/gitignore/): Crea archivos `.gitignore` personalizados para tus proyectos seleccionando las tecnologías que utilizas.
+- [**Editor de Archivos Markdown (.MD)**](https://pandao.github.io/editor.md/en.html): Un editor online interactivo para crear y previsualizar archivos Markdown con facilidad.
+- [**Visualizador de Estructuras JSON**](https://jsoncrack.com/editor): Herramienta para analizar y visualizar datos JSON en un formato gráfico claro y comprensible.
+
+
 ## 🌟 Expresiones de Gratitud 🎁
 ¡Gracias por tomarte el tiempo de visitar y apoyar mis proyectos! Aquí te dejo algunos lugares donde puedes seguir aprendiendo y apoyarme:
 
