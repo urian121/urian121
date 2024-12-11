@@ -260,9 +260,11 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
 - [CapCut](https://www.capcut.com/es-es/)
 
 ## 🚀 Sitios para Deploy
+- [infinityfree](https://dash.infinityfree.com/)
 - [Vercel](https://vercel.com/)
-- [Firebase](https://firebase.google.com/)
+- [GitHub Pages](https://github.com/)
 - [Netlify](https://www.netlify.com/)
+- [Firebase](https://firebase.google.com/)
 - [PythonAnywhere](https://www.pythonanywhere.com/)
 - [Railway](https://railway.app/)
 - [Render](https://render.com/)
