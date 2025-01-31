@@ -35,14 +35,14 @@ He creado varios paquetes npm como aporte a la comunidad de Devs.
         <td width="33%">
             <div align="center">
                 <a href="https://github.com/urian121/tienda-online-con-svelte-carrito-de-compras-en-tiempo-real" target="_blank">
-                    <img src="https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/tienda-online-con-svelte-carrito-de-compras-en-tiempo-real.gif" width="400" alt="Tienda online con Svelte carrito de compras">
+                    <img src="https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/tienda-online-con-svelte-carrito-de-compras-en-tiempo-real.gif" width="450" alt="Tienda online con Svelte carrito de compras">
                 </a>
             </div>                                                                             
         </td>
         <td width="33%">
             <div align="center">                                       
                 <a href="https://github.com/urian121/tienda-online-con-React-carrito-de-compras-en-tiempo-real" target="_blank">
-                    <img src="https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/tienda-online-con-carrito-de-compra-en-react.gif" width="400" alt="Tienda Online con React: Carrito de Compras en Tiempo Real">
+                    <img src="https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/tienda-online-con-carrito-de-compra-en-react.gif" width="450" alt="Tienda Online con React: Carrito de Compras en Tiempo Real">
                 </a>
             </div>
         </td>
@@ -51,10 +51,17 @@ He creado varios paquetes npm como aporte a la comunidad de Devs.
 
 <table>
     <tr>
-        <td width="33%">
+        <td width="40%">
             <div align="center">
                 <a href="https://github.com/urian121/carrito-de-compras-con-javascript-en-tiempo-real" target="_blank">
-                    <img src="https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/carrito-javascript-urian-viera.png"  alt="Carrito de Compras con JavaScript en tiempo REAL">
+                    <img src="https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/carrito-javascript-urian-viera.png" width="500" alt="Carrito de Compras con JavaScript en tiempo REAL">
+                </a>
+            </div>
+        </td>
+      <td width="40%">
+            <div align="center">
+                <a href="https://github.com/urian121/eliminar-multiples-registros-dinamicamente-en-una-tabla-con-Svelte" target="_blank">
+                    <img src="https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/eliminar-multiples-registros-dinamicamente-en-una-tabla-con-svelte.gif" width="400" alt="Eliminar múltiples registros de forma dinámica con Svelte">
                 </a>
             </div>
         </td>
