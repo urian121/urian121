@@ -34,6 +34,33 @@ He creado varios paquetes npm como aporte a la comunidad de Devs.
     <tr>
         <td width="33%">
             <div align="center">
+                <a href="https://github.com/urian121/tienda-online-con-svelte-carrito-de-compras-en-tiempo-real" target="_blank">
+                    <img src="https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/tienda-online-con-svelte-carrito-de-compras-en-tiempo-real.gif" width="400" alt="Tienda online con Svelte carrito de compras">
+                </a>
+            </div>                                                                             
+        </td>
+        <td width="33%">
+            <div align="center">                                       
+                <a href="https://github.com/urian121/tienda-online-con-React-carrito-de-compras-en-tiempo-real" target="_blank">
+                    <img src="https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/tienda-online-con-carrito-de-compra-en-react.gif" width="400" alt="Tienda Online con React: Carrito de Compras en Tiempo Real">
+                </a>
+            </div>
+        </td>
+        <td width="33%">
+            <div align="center">
+                <a href="https://github.com/urian121/carrito-de-compras-con-javascript-en-tiempo-real" target="_blank">
+                    <img src="https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/carrito-javascript-urian-viera.png" alt="Carrito de Compras con JavaScript en tiempo REAL">
+                </a>
+            </div>
+        </td>
+    </tr>
+</table>
+
+
+<table>
+    <tr>
+        <td width="33%">
+            <div align="center">
                 <a href="https://github.com/urian121/Aplicacion-de-contactos-CRUD-Full-Stack-con-React-PHP-y-MySQL" target="_blank">
                     <img src="https://www.urianviera.com/img-portada-contenidos/reactjs/agenda-contactos-react-php-y-mysql.png" width="400" alt="agenda-contactos-react-php-y-mysql">
                 </a>
@@ -229,11 +256,13 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
 
 ## 🤖 Inteligencia Artificial
 - [Codeium](https://codeium.com/)
-- [Supermaven](https://supermaven.com/)
 - [ChatGPT](https://chatgpt.com/)
+- [Supermaven](https://supermaven.com/)
 - [Claude](https://claude.ai/)
 - [Chat Blackbox](https://www.blackbox.ai/)
 - [Gemini](https://gemini.google.com/app)
+- [DeepSeek](https://chat.deepseek.com/)
+- [Qwen2.5](https://chat.qwenlm.ai/)
 - [Phind](https://www.phind.com/search?home=true)
 - [V0](https://v0.dev/)
 - [Easy peasy](https://easy-peasy.ai/es)
@@ -297,11 +326,11 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
 
 ¡Aquí encontrarás un montón de contenido valioso para seguir aprendiendo y mejorar tus habilidades como desarrollador! 🚀
 
-### 🙌 Cómo puedes apoyar:
+### 🙌 Cómo puedes apoyar 📢:
 
 - ✅ Comparte este repositorio con otros **Devs** que puedan beneficiarse 📢
 - ✅ ¡Invítame un **café** ☕ o una **cerveza** 🍺 si te ha sido útil!
 - ✅ Haz una **donación** vía [¡PayPal!](https://www.paypal.com/donate/?hosted_button_id=4SV78MQJJH3VE) para seguir creando más contenido
 - ✅ Agradece públicamente 🤓
 
-## ⚡ ¡No olvides SUSCRIBIRTE a mi canal! 👍
+## ⚡ ¡No olvides SUSCRIBIRTE a la [Comunidad WebDeveloper](https://www.youtube.com/WebDeveloperUrianViera?sub_confirmation=1)! 👍
