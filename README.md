@@ -49,7 +49,7 @@ He creado varios paquetes npm como aporte a la comunidad de Devs.
         <td width="33%">
             <div align="center">
                 <a href="https://github.com/urian121/carrito-de-compras-con-javascript-en-tiempo-real" target="_blank">
-                    <img src="https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/carrito-javascript-urian-viera.png" alt="Carrito de Compras con JavaScript en tiempo REAL">
+                    <img src="https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/carrito-javascript-urian-viera.png" width="400" alt="Carrito de Compras con JavaScript en tiempo REAL">
                 </a>
             </div>
         </td>
