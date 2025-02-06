@@ -320,6 +320,14 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
 ✅ [Loading Request](https://www.npmjs.com/package/loading-request)
 
 
+## ✅ Frameworks Front-end
+
+- [Bootstrap](https://getbootstrap.com/): Framework CSS popular para desarrollo rápido y responsivo.
+- [Materialize CSS](https://materializecss.com/): Framework CSS basado en Material Design, ideal para interfaces modernas.
+- [GetUIkit](https://getuikit.com/): Framework CSS ligero y modular con una gran cantidad de componentes predefinidos.
+- [Mui](https://mui.com/): Conocido como Material-UI, un conjunto de componentes React que implementa Material Design.
+- [TailwindCSS](https://tailwindcss.com/): Framework CSS utilitario que permite crear diseños personalizados sin salir del HTML.
+
 ## Herramientas 🚀
 
 - [**Generador de Archivos .gitignore**](https://www.toptal.com/developers/gitignore/): Crea archivos `.gitignore` personalizados para tus proyectos seleccionando las tecnologías que utilizas.
