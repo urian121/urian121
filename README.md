@@ -327,6 +327,7 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
 - [GetUIkit](https://getuikit.com/): Framework CSS ligero y modular con una gran cantidad de componentes predefinidos.
 - [Mui](https://mui.com/): Conocido como Material-UI, un conjunto de componentes React que implementa Material Design.
 - [TailwindCSS](https://tailwindcss.com/): Framework CSS utilitario que permite crear diseños personalizados sin salir del HTML.
+- [ShadCN UI](https://ui.shadcn.com/): Biblioteca de componentes React basada en Tailwind CSS.
 
 ## Herramientas 🚀
 
