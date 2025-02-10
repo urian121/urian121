@@ -303,6 +303,7 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
 - [infinityfree](https://dash.infinityfree.com/)
 - [Vercel](https://vercel.com/)
 - [GitHub Pages](https://github.com/)
+- [Digital Ocean](https://www.cloudflare.com/es-es/)
 - [Netlify](https://www.netlify.com/)
 - [Firebase](https://firebase.google.com/)
 - [PythonAnywhere](https://www.pythonanywhere.com/)
