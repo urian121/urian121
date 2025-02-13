@@ -240,6 +240,7 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
 
 ## 🛣️ APIs 
 - [JSON Placeholder](https://jsonplaceholder.typicode.com/)
+- [Platzi](https://fakeapi.platzi.com/)
 - [Dog API](https://dog.ceo/dog-api/)
 - [Picsum Photos](https://picsum.photos/)
 - [REST Countries](https://restcountries.com/)
