@@ -271,6 +271,7 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
 - [ChatGPT](https://chatgpt.com/)
 - [Supermaven](https://supermaven.com/)
 - [Claude](https://claude.ai/)
+- [Grok](https://grok.com/)
 - [Chat Blackbox](https://www.blackbox.ai/)
 - [Gemini](https://gemini.google.com/app)
 - [DeepSeek](https://chat.deepseek.com/)
@@ -282,6 +283,7 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
 - [Anthropic Console](https://console.anthropic.com/)
 - [Tabnine AI](https://www.tabnine.com/)
 - [Llama Coder](https://llamacoder.together.ai/)
+- [Yeschat](https://www.yeschat.ai/es/app/chat)
 - [Postgres SQL IA](https://postgres.new/)
 
 ## 📧 Envío de Emails
