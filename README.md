@@ -264,6 +264,8 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
 - [Supabase](https://supabase.com/)
 - [Turso](https://turso.tech/)
 - [Postgres New](https://postgres.new/)
+- [Neon](https://neon.tech/)
+- [Xata](https://xata.io/)
 - [Firebase](https://firebase.google.com/)
 
 ## 🤖 Inteligencia Artificial
