@@ -243,6 +243,7 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
 - [Platzi](https://fakeapi.platzi.com/)
 - [Dog API](https://dog.ceo/dog-api/)
 - [Picsum Photos](https://picsum.photos/)
+- [Reqres](https://reqres.in/)
 - [REST Countries](https://restcountries.com/)
 - [Fake Store API](https://fakestoreapi.com/)
 - [Dummy JSON](https://dummyjson.com/)
