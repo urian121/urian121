@@ -250,7 +250,6 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
 - [NewsAPI](https://newsapi.org/)
 - [RapidAPI](https://rapidapi.com/learn/api/rest)
 - [API Colombia](https://api-colombia.com/)
-- [Reqres](https://reqres.in/api/users)
 - [API Vercel](https://api.vercel.app/blog)
 - [Dragon Ball API](https://web.dragonball-api.com/)
 - [Sling Academy API](https://api.slingacademy.com/v1/sample-data/users)
