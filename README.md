@@ -303,6 +303,7 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
 ## 🎨 Diseño y Edición
 - [Canva](https://www.canva.com/)
 - [CapCut](https://www.capcut.com/es-es/)
+- [Comprimir imágenes](https://www.websiteplanet.com/es/webtools/imagecompressor/)
 
 ## 🚀 Sitios para Deploy
 - [infinityfree](https://dash.infinityfree.com/)
