@@ -32,17 +32,17 @@ He creado varios paquetes npm como aporte a la comunidad de Devs.
 
 <table>
     <tr>
-        <td width="33%">
+        <td width="50%">
             <div align="center">
                 <a href="https://github.com/urian121/crud-full-stack-react-python-django-DRF-y-mysql" target="_blank">
-                    <img src="https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/crud-full-stack-react-django-mysql-urian-viera.png" width="400" alt="crud-full-stack-react-python-django-DRF-y-mysql">
+                    <img src="https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/crud-full-stack-react-django-mysql-urian-viera.png" alt="crud-full-stack-react-python-django-DRF-y-mysql">
                 </a>
             </div>                                                                             
         </td>
-        <td width="33%">
+        <td width="50%">
             <div align="center">                                       
                 <a href="https://github.com/urian121/CRUD-Full-Stack-con-Svelte-Python-Flask-y-MySQL" target="_blank">
-                    <img src="https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/crud-fullstack-con-svelte-python-flask-mysql.gif" width="400" alt="CRUD-Full-Stack-con-Svelte-Python-Flask-y-MySQL">
+                    <img src="https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/crud-fullstack-con-svelte-python-flask-mysql.gif" alt="CRUD-Full-Stack-con-Svelte-Python-Flask-y-MySQL">
                 </a>
             </div>
         </td>
