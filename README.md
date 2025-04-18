@@ -89,24 +89,17 @@ He creado varios paquetes npm como aporte a la comunidad de Devs.
 
 <table>
     <tr>
-        <td width="33%">
+        <td width="50%">
             <div align="center">
                 <a href="https://github.com/urian121/Aplicacion-de-contactos-CRUD-Full-Stack-con-React-PHP-y-MySQL" target="_blank">
-                    <img src="https://www.urianviera.com/img-portada-contenidos/reactjs/agenda-contactos-react-php-y-mysql.png" width="400" alt="agenda-contactos-react-php-y-mysql">
+                    <img src="https://www.urianviera.com/img-portada-contenidos/reactjs/agenda-contactos-react-php-y-mysql.png" alt="agenda-contactos-react-php-y-mysql">
                 </a>
             </div>                                                                             
         </td>
-        <td width="33%">
-            <div align="center">                                       
-                <a href="https://github.com/urian121/CRUD-Full-Stack-con-ReactJS-TypeScript-PHP-MySQL-Bootstrap5" target="_blank">
-                    <img src="https://www.urianviera.com/img-portada-contenidos/typescript/crud-ful-stack-react-typescript-php-mysql.png" width="400" alt="crud-ful-stack-react-typescript-php-mysql">
-                </a>
-            </div>
-        </td>
-        <td width="33%">
+        <td width="50%">
             <div align="center">
                 <a href="https://github.com/urian121/CRUD-con-Laravel-10-y-MySQL-guia-paso-a-paso" target="_blank">
-                    <img src="https://www.urianviera.com/img-portada-contenidos/php/crud-laravel10-y-mysql.png" width="400" alt="crud-laravel10-y-mysql">
+                    <img src="https://www.urianviera.com/img-portada-contenidos/php/crud-laravel10-y-mysql.png" alt="crud-laravel10-y-mysql">
                 </a>
             </div>
         </td>
