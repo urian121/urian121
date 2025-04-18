@@ -54,7 +54,7 @@ He creado varios paquetes npm como aporte a la comunidad de Devs.
         <td width="33%">
             <div align="center">
                 <a href="https://github.com/urian121/tienda-online-con-svelte-carrito-de-compras-en-tiempo-real" target="_blank">
-                    <img src="https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/tienda-online-con-svelte-carrito-de-compras-en-tiempo-real.gif" width="450" alt="Tienda online con Svelte carrito de compras">
+                    <img src="https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/tienda-online-con-svelte-carrito-de-compras-en-tiempo-real.png" width="450" alt="Tienda online con Svelte carrito de compras">
                 </a>
             </div>                                                                             
         </td>
