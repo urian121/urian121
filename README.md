@@ -39,6 +39,13 @@ He creado varios paquetes npm como aporte a la comunidad de Devs.
                 </a>
             </div>                                                                             
         </td>
+        <td width="33%">
+            <div align="center">                                       
+                <a href="https://github.com/urian121/CRUD-Full-Stack-con-Svelte-Python-Flask-y-MySQL" target="_blank">
+                    <img src="https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/crud-fullstack-con-svelte-python-flask-mysql.gif" width="400" alt="CRUD-Full-Stack-con-Svelte-Python-Flask-y-MySQL">
+                </a>
+            </div>
+        </td>
     </tr>
 </table>
 
