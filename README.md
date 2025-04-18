@@ -61,7 +61,7 @@ He creado varios paquetes npm como aporte a la comunidad de Devs.
         <td width="33%">
             <div align="center">                                       
                 <a href="https://github.com/urian121/tienda-online-con-React-carrito-de-compras-en-tiempo-real" target="_blank">
-                    <img src="https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/tienda-online-con-carrito-de-compra-en-react.gif" width="450" alt="Tienda Online con React: Carrito de Compras en Tiempo Real">
+                    <img src="https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/tienda-online-con-react-urian-viera.png" alt="Tienda Online con React: Carrito de Compras en Tiempo Real">
                 </a>
             </div>
         </td>
