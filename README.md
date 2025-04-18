@@ -34,6 +34,18 @@ He creado varios paquetes npm como aporte a la comunidad de Devs.
     <tr>
         <td width="33%">
             <div align="center">
+                <a href="https://github.com/urian121/crud-full-stack-react-python-django-DRF-y-mysql" target="_blank">
+                    <img src="https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/crud-full-stack-react-django-mysql-urian-viera.png" width="400" alt="crud-full-stack-react-python-django-DRF-y-mysql">
+                </a>
+            </div>                                                                             
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td width="33%">
+            <div align="center">
                 <a href="https://github.com/urian121/tienda-online-con-svelte-carrito-de-compras-en-tiempo-real" target="_blank">
                     <img src="https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/tienda-online-con-svelte-carrito-de-compras-en-tiempo-real.gif" width="450" alt="Tienda online con Svelte carrito de compras">
                 </a>
