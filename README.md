@@ -251,6 +251,7 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
 - [Plantillas HTML Gratis](https://plantillashtmlgratis.com/en/home/)
 
 ## 🛣️ APIs 
+- [Devs Api Hub](https://devsapihub.com/)  😀
 - [JSON Placeholder](https://jsonplaceholder.typicode.com/)
 - [Platzi](https://fakeapi.platzi.com/)
 - [Dog API](https://dog.ceo/dog-api/)
