@@ -335,9 +335,11 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
 
 ## 🎍 Librerías favoritas ❤️
 ✅ [Nextjs Toast Notify](https://www.npmjs.com/package/nextjs-toast-notify)
-
 ✅ [Loading Request](https://www.npmjs.com/package/loading-request)
-
+✅ [React Use Form Lite](https://www.npmjs.com/package/react-use-form-lite)
+✅ [React Native Use Form Lite](https://www.npmjs.com/package/react-native-use-form-lite)
+✅ [React Native Separator](https://www.npmjs.com/package/react-native-separator-ui)
+✅ [Progress Loaderjs](https://www.npmjs.com/package/progress-loader-js)
 
 ## ✅ Frameworks Front-end
 
