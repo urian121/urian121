@@ -34,6 +34,25 @@ He creado varios paquetes npm como aporte a la comunidad de Devs.
     <tr>
         <td width="50%">
             <div align="center">
+                <a href="https://github.com/urian121/tienda-online-con-svelte-php-y-mysql" target="_blank">
+                    <img src="https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/tienda-online-svelte-y-php.gif" alt="Tienda en línea desarrollada con Svelte y Bootstrap, el backend con PHP y MySQL para la gestión de productos y pedidos.">
+                </a>
+            </div>                                                                             
+        </td>
+        <td width="50%">
+            <div align="center">                                       
+                <a href="https://github.com/urian121/seleccionar-varios-checkbox-en-php-y-mysql" target="_blank">
+                    <img src="https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/seleccionar-procesar-multiples-checkBox-con-JavaScript-PHP-MySQL.gif" alt="Procesar Múltiple CheckBox Seleccionados con PHP y MySQL">
+                </a>
+            </div>
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td width="50%">
+            <div align="center">
                 <a href="https://github.com/urian121/crud-full-stack-react-python-django-DRF-y-mysql" target="_blank">
                     <img src="https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/crud-full-stack-react-django-mysql-urian-viera.png" alt="crud-full-stack-react-python-django-DRF-y-mysql">
                 </a>
