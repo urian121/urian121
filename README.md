@@ -79,8 +79,8 @@ He creado varios paquetes npm como aporte a la comunidad de Devs.
         </td>
       <td width="40%">
             <div align="center">
-                <a href="https://github.com/urian121/eliminar-multiples-registros-dinamicamente-en-una-tabla-con-Svelte" target="_blank">
-                    <img src="https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/eliminar-multiples-registros-dinamicamente-en-una-tabla-con-svelte.gif" width="400" alt="Eliminar múltiples registros de forma dinámica con Svelte">
+                <a href="https://github.com/urian121/CafeExpress-with-sveltekit-supabase" target="_blank">
+                    <img src="https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/CafeExpress-with-sveltekit-supabase-cart-shopping.png" width="400" alt="CaféExpress es una tienda en línea desarrollada con SvelteKit y Supabase. ">
                 </a>
             </div>
         </td>
