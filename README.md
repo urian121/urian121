@@ -37,6 +37,11 @@ He creado varios paquetes npm como aporte a la comunidad de Devs.
   <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
   <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
   <img src="https://img.shields.io/badge/HTMX-337ab7?style=flat-square" width="58">
+
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/ShadCN%20UI-000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=uikit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Materialize-EE6E73?style=for-the-badge&logo=materializecss&logoColor=white" />
 </p>
 
 
@@ -339,14 +344,20 @@ He creado varios paquetes npm como aporte a la comunidad de Devs.
 Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo para desarrollo web y más.
 
 ## 🌐 Admin Templates y Plantillas
-- [Real Estate Templates](https://templatefor.net/real-estate-html-website-templates/)
-- [Themefisher - Bootstrap Templates](https://themefisher.com/free-bootstrap-templates)
-- [Themewagon](https://themewagon.com/)
-- [HTMLRev - Free Templates](https://htmlrev.com/)
-- [BootstrapDash - Admin Templates](https://www.bootstrapdash.com/bootstrap-free-admin-templates)
-- [Economic Theme](https://economictheme.net/index)
-- [Jamstack Themes](https://jamstackthemes.dev/)
-- [Plantillas HTML Gratis](https://plantillashtmlgratis.com/en/home/)
+## 🎨 **Templates & Admin Dashboards**
+
+<div align="left">
+
+| 🏠 **Template** | 📝 **Descripción** | 🔗 **Link** |
+|:---|:---|:---:|
+| **Real Estate Templates** | Plantillas especializadas en bienes raíces | [🌐](https://templatefor.net/real-estate-html-website-templates/) |
+| **Themefisher** | Templates Bootstrap gratuitos y premium | [🌐](https://themefisher.com/free-bootstrap-templates) |
+| **Themewagon** | Colección masiva de templates responsivos | [🌐](https://themewagon.com/) |
+| **HTMLRev** | Templates HTML modernos y limpios | [🌐](https://htmlrev.com/) |
+| **BootstrapDash** | Dashboards administrativos profesionales | [🌐](https://www.bootstrapdash.com/bootstrap-free-admin-templates) |
+| **Jamstack Themes** | Temas para sitios estáticos modernos | [🌐](https://jamstackthemes.dev/) |
+
+</div>
 
 ## 🛣️ APIs 
 - [Devs Api Hub](https://devsapihub.com/)  😀
@@ -371,13 +382,19 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
 - [Generador DNI API](https://api.generadordni.es/)
 - [Public APIs](https://publicapis.dev/)
 
-## 🃏 Bases de Datos
-- [Supabase](https://supabase.com/)
-- [Turso](https://turso.tech/)
-- [Postgres New](https://postgres.new/)
-- [Neon](https://neon.tech/)
-- [Xata](https://xata.io/)
-- [Firebase](https://firebase.google.com/)
+## 🗄️ **Bases de Datos como Servicio**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Turso-4FF8D2?style=for-the-badge&logo=turso&logoColor=black" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Neon-00E5FF?style=for-the-badge&logo=neon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xata-7C3AED?style=for-the-badge&logo=xata&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postgres.new-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 ## 🤖 Inteligencia Artificial
 - [Codeium](https://codeium.com/)
@@ -402,6 +419,18 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
 ## 📧 Envío de Emails
 - [Brevo](https://www.brevo.com/es/)
 
+
+## 🚀 **Hosting & Deploy**
+<div align="center">
+
+| **Gratuito** | **Premium** | **Especializado** |
+|:---:|:---:|:---:|
+| ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel) | ![Railway](https://img.shields.io/badge/Railway-131415?style=flat-square&logo=railway) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase) |
+| ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify) | ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render) | ![Deno Deploy](https://img.shields.io/badge/Deno%20Deploy-000?style=flat-square&logo=deno) |
+| ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717?style=flat-square&logo=github) | ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0167ff?style=flat-square&logo=digitalOcean) | ![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-2F9FD7?style=flat-square&logo=pythonanywhere) |
+
+</div>
+
 ## ☁️ Almacenamiento en la Nube
 - [MEGA](https://mega.nz)
 
@@ -416,38 +445,49 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
 - [CapCut](https://www.capcut.com/es-es/)
 - [Comprimir imágenes](https://www.websiteplanet.com/es/webtools/imagecompressor/)
 
-## 🚀 Sitios para Deploy
-- [infinityfree](https://dash.infinityfree.com/)
-- [Vercel](https://vercel.com/)
-- [GitHub Pages](https://github.com/)
-- [Digital Ocean](https://www.cloudflare.com/es-es/)
-- [Netlify](https://www.netlify.com/)
-- [Firebase](https://firebase.google.com/)
-- [PythonAnywhere](https://www.pythonanywhere.com/)
-- [Railway](https://railway.app/)
-- [Render](https://render.com/)
-- [Deno Deploy](https://deno.com/deploy)
-- [Cloudinary](https://cloudinary.com/)
-- [Cloudflare](https://dash.cloudflare.com/login)
-- [Filess.io](https://dash.filess.io/)
-- [Turso](https://turso.tech/)
 
-## 🎍 Librerías favoritas ❤️
-✅ [Nextjs Toast Notify](https://www.npmjs.com/package/nextjs-toast-notify)
-✅ [Loading Request](https://www.npmjs.com/package/loading-request)
-✅ [React Use Form Lite](https://www.npmjs.com/package/react-use-form-lite)
-✅ [React Native Use Form Lite](https://www.npmjs.com/package/react-native-use-form-lite)
-✅ [React Native Separator](https://www.npmjs.com/package/react-native-separator-ui)
-✅ [Progress Loaderjs](https://www.npmjs.com/package/progress-loader-js)
+## 📦 **Mis Librerías NPM**
 
-## ✅ Frameworks Front-end
+<div align="center">
 
-- [Bootstrap](https://getbootstrap.com/): Framework CSS popular para desarrollo rápido y responsivo.
-- [Materialize CSS](https://materializecss.com/): Framework CSS basado en Material Design, ideal para interfaces modernas.
-- [GetUIkit](https://getuikit.com/): Framework CSS ligero y modular con una gran cantidad de componentes predefinidos.
-- [Mui](https://mui.com/): Conocido como Material-UI, un conjunto de componentes React que implementa Material Design.
-- [TailwindCSS](https://tailwindcss.com/): Framework CSS utilitario que permite crear diseños personalizados sin salir del HTML.
-- [ShadCN UI](https://ui.shadcn.com/): Biblioteca de componentes React basada en Tailwind CSS.
+> 🎉 **Creadas con ❤️ por mí**
+
+<table>
+<tr>
+<td align="center">
+<a href="https://www.npmjs.com/package/nextjs-toast-notify">
+<img src="https://img.shields.io/badge/nextjs--toast--notify-FF6B6B?style=for-the-badge&logo=npm&logoColor=white" />
+</a>
+<br/><small>Notificaciones para Next.js</small>
+</td>
+<td align="center">
+<a href="https://www.npmjs.com/package/react-use-form-lite">
+<img src="https://img.shields.io/badge/react--use--form--lite-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</a>
+<br/><small>Forms simples en React</small>
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="https://www.npmjs.com/package/loading-request">
+<img src="https://img.shields.io/badge/loading--request-4CAF50?style=for-the-badge&logo=javascript&logoColor=white" />
+</a>
+<br/><small>Loading states</small>
+</td>
+<td align="center">
+<a href="https://www.npmjs.com/package/progress-loader-js">
+<img src="https://img.shields.io/badge/progress--loader--js-FF9800?style=for-the-badge&logo=javascript&logoColor=white" />
+</a>
+<br/><small>Progress bars</small>
+</td>
+</tr>
+</table>
+
+### 📱 **React Native**
+- [**React Native Use Form Lite**](https://www.npmjs.com/package/react-native-use-form-lite) - Forms para RN
+- [**React Native Separator**](https://www.npmjs.com/package/react-native-separator-ui) - Separadores UI
+
+</div>
 
 ## Herramientas 🚀
 
