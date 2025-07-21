@@ -23,9 +23,9 @@ He creado varios paquetes npm como aporte a la comunidad de Devs.
   Un paquete **npm** que permite mostrar indicadores de carga durante las solicitudes **HTTP** en aplicaciones web, mejorando la experiencia del usuario. Además, incluye soporte para **CDN**, lo que permite su uso en cualquier sitio web.
 
 
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" /> Mi Stack de Tecnologías
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" /> Mi Stack de Tecnologías
 
-## 🎨 Frontend & UI/UX
+### 🎨 Frontend & UI/UX
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,svelte" />
@@ -40,7 +40,7 @@ He creado varios paquetes npm como aporte a la comunidad de Devs.
 </p>
 
 
-## ⚙️ Backend & APIs
+### ⚙️ Backend & APIs
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,python,php,django,flask,fastapi" />
@@ -54,13 +54,13 @@ He creado varios paquetes npm como aporte a la comunidad de Devs.
 </p>
 
 
-## 🗄️ Bases de Datos
+### 🗄️ Bases de Datos
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase,supabase" />
 </p>
 
-## ☁️ Cloud & DevOps
+### ☁️ Cloud & DevOps
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vercel,netlify,heroku,cloudflare,docker,nginx" />
@@ -82,14 +82,13 @@ He creado varios paquetes npm como aporte a la comunidad de Devs.
 </p>
 
 
-## 📱 Mobile Development
+### 📱 Mobile Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=flutter,dart,react" />
 </p>
 
-
-## 🛠️ Herramientas de Desarrollo
+### 🛠️ Herramientas de Desarrollo
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,npm,yarn" />
@@ -106,7 +105,6 @@ He creado varios paquetes npm como aporte a la comunidad de Devs.
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" width="100" />
-
 
 
 ## Proyectos interesantes 🔥
