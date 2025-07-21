@@ -350,7 +350,6 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
 
 | 🏠 **Template** | 📝 **Descripción** | 🔗 **Link** |
 |:---|:---|:---:|
-| **Real Estate Templates** | Plantillas especializadas en bienes raíces | [🌐](https://templatefor.net/real-estate-html-website-templates/) |
 | **Themefisher** | Templates Bootstrap gratuitos y premium | [🌐](https://themefisher.com/free-bootstrap-templates) |
 | **Themewagon** | Colección masiva de templates responsivos | [🌐](https://themewagon.com/) |
 | **HTMLRev** | Templates HTML modernos y limpios | [🌐](https://htmlrev.com/) |
