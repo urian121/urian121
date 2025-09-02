@@ -493,6 +493,7 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
 - [**Generador de Archivos .gitignore**](https://www.toptal.com/developers/gitignore/): Crea archivos `.gitignore` personalizados para tus proyectos seleccionando las tecnologías que utilizas.
 - [**Editor de Archivos Markdown (.MD)**](https://pandao.github.io/editor.md/en.html): Un editor online interactivo para crear y previsualizar archivos Markdown con facilidad.
 - [**Visualizador de Estructuras JSON**](https://jsoncrack.com/editor): Herramienta para analizar y visualizar datos JSON en un formato gráfico claro y comprensible.
+- [**Visualizador de Estructuras BD**](https://www.drawdb.app): Editor de diseño de bases de datos, de código libre y abierto, editor de diseño de bases de datos, modelo de datos y generador SQL.
 
 
 ## 🌟 Expresiones de Gratitud 🎁
