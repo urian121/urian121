@@ -387,15 +387,9 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Turso-4FF8D2?style=for-the-badge&logo=turso&logoColor=black" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Neon-00E5FF?style=for-the-badge&logo=neon&logoColor=white" />
   <img src="https://img.shields.io/badge/Xata-7C3AED?style=for-the-badge&logo=xata&logoColor=white" />
   <img src="https://img.shields.io/badge/Postgres.new-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Filess.io-4F46E5?style=for-the-badge&logo=files&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
