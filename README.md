@@ -395,6 +395,14 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
   <img src="https://img.shields.io/badge/Postgres.new-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Filess.io-4F46E5?style=for-the-badge&logo=files&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+
 ## 🤖 Inteligencia Artificial
 - [Codeium](https://codeium.com/)
 - [ChatGPT](https://chatgpt.com/)
