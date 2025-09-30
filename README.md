@@ -5,7 +5,7 @@
 💻 **Ingeniero de Sistemas | Full Stack Developer**  
 🚀 Desarrollador **autodidacta**, apasionado por la **tecnología** y la **innovación**.  
 ✨ Experiencia en el desarrollo de **aplicaciones web** (Frontend & Backend), **móviles** y **APIs RESTful** con tecnologías modernas.  
-🔧 Stack principal: **JavaScript, Node.js, React,Astro, Svelte, Next.js, PHP, Python, Django, Flask, React Native** y más.  
+🔧 Stack principal: **JavaScript, Node.js, React, Astro, Svelte, Next.js, HTMX, PHP, Python, Django, Flask, React Native** y más.  
 🎯 Mi motivación: **transformar ideas en soluciones digitales eficientes, escalables e impactantes**.  
 
 <img src="https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/github-urian-viera-fulltstack.png">
