@@ -1,7 +1,12 @@
 # **¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Soy Urian Viera**
 
-### Sobre Mí 🤔
-**Ingeniero de Sistemas** y Desarrollador **Full Stack autodidacta**. Apasionado por la tecnología y la innovación, tengo experiencia en el desarrollo de aplicaciones web (tanto en **Backend** como en **Frontend**) y en aplicaciones **móviles**. Mi motivación es transformar ideas en soluciones digitales eficientes e impactantes.
+## Sobre Mí 🤔  
+
+💻 **Ingeniero de Sistemas | Full Stack Developer**  
+🚀 Desarrollador **autodidacta**, apasionado por la **tecnología** y la **innovación**.  
+✨ Experiencia en el desarrollo de **aplicaciones web** (Frontend & Backend), **móviles** y **APIs RESTful** con tecnologías modernas.  
+🔧 Stack principal: **JavaScript, Node.js, React,Astro, Svelte, Next.js, PHP, Python, Django, Flask, React Native** y más.  
+🎯 Mi motivación: **transformar ideas en soluciones digitales eficientes, escalables e impactantes**.  
 
 <img src="https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/github-urian-viera-fulltstack.png">
 
