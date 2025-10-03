@@ -377,13 +377,9 @@ Recopilación de herramientas y recursos que utilizo frecuentemente y recomiendo
 - [RapidAPI](https://rapidapi.com/learn/api/rest)
 - [API Colombia](https://api-colombia.com/)
 - [API Vercel](https://api.vercel.app/blog)
-- [Dragon Ball API](https://web.dragonball-api.com/)
 - [Sling Academy API](https://api.slingacademy.com/v1/sample-data/users)
 - [Ticketmaster API](https://developer.ticketmaster.com/products-and-docs/apis/discovery-api/v2/)
-- [Random User](https://randomuser.me/)
-- [The Simpsons Quote API](https://thesimpsonsquoteapi.glitch.me/)
 - [The Meal DB](https://www.themealdb.com/)
-- [Generador DNI API](https://api.generadordni.es/)
 - [Public APIs](https://publicapis.dev/)
 
 ## 🗄️ **Bases de Datos como Servicio**
