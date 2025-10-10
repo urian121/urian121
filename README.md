@@ -55,7 +55,7 @@ He creado varios paquetes npm como aporte a la comunidad de Devs.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,python,php,django,flask,fastapi" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=express,laravel,graphql,prisma" />
+  <img src="https://skillicons.dev/icons?i=express,laravel,graphql,drizzle" />
 </p>
 
 <p align="left">
